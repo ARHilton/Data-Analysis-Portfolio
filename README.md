@@ -10,6 +10,14 @@ Recently enrolled in the Data Analytics Career Accelerator program with the Lond
 
 My CV in [pdf](https://github.com/ARHilton/Data-Analysis-Portfolio/blob/main/Arthur%20Hilton_Data%20Analyst_CV.pdf).
 
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+
 # Table of Contents
 
 - [About Me](#about-me)
+- [Porfolio Projects](#portfolio-projects)
+
+
+## Portfolio Projects
+
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
