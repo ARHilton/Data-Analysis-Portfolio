@@ -5,3 +5,5 @@ Hi, I'm Arthur! I have an education background in Physics and a diverse range of
 Drawing from my diverse, worldly experience, I bring a problem focused, person orientated perspective to the table. Whether racing across Cairo to gather Cost-of-Living data, interviewing locals about black market currency exchange in Sri Lanka or researching hyperinflation in Turkey, I am intrepid in my desire to get to the root cause of an issue and extract the best outcomes, cutting across cultural barriers in the process. 
 
 Recently enrolled in the Data Analytics Career Accelerator program with the London School of Economics, (LSE), I've learned the language and mindset of a Data Analyst from leading experts in the field and am excitedly looking forward to extracting greater value from data than ever before.
+
+<b> Title
