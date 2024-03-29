@@ -23,4 +23,4 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 # Supermarket Customer Analysis
-<b> The Project: The aim
+**The Project:** The aim
