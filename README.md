@@ -33,6 +33,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Excel, PostgreSQL, Tableau.
 
 **Results:** Presented a range of business recommendations, including:
-             - The Customer: I advised the supermarket to foster relationships with those in their thirties and to sell to those between 45 and 75. Couples and families were the most lucrative demographic.
-             - The product
+- The Customer: I advised the supermarket to foster relationships with those in their thirties and to sell to those between 45 and 75. Couples and families were the most lucrative demographic.
+- The product: I recommended focussing in on two categories of item, as these were the most popular, regardless of country or online/in store.
+- Advertisements: Presented insights around which advert mediums are most successful with each demographic, especially around age, education and family size.
              
