@@ -47,13 +47,16 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Presentation:**
 
-**Description:** The project sought to answer the question, "if NHS capacity was sufficient, what would it look like?", by drawing from NHS targets, namely: seeing patients within 14 days of booking, allocating 15 minutes per patient consultation and for attendance to be as high as possible. The dataset contained several hundred thousand rows of appointment data, including ICB (locality), consultation types and attendance. The data was cleaned and wrangled using the numpy Python library and visualisations created using Seaborn and Matplotlib.
+**Description:** The project sought to answer the question, "if NHS capacity was sufficient, what would it look like?", by drawing from NHS targets, namely: seeing patients within 14 days of booking, allocating 15 minutes per patient consultation and for attendance to be as high as possible. The dataset contained several hundred thousand rows of appointment data, including ICB (locality), consultation types and attendance. The data was cleaned and wrangled using the numpy Python library, and visualisations created using seaborn and matplotlib.
 
-**Skills:**
+**Skills:** Data cleaning & wrangling, exploratory & descriptive analysis, structured thinking frameworks, formulating a problem statement, creating visualisations, presenting insights and recommendations.
 
-**Technology:**
+**Technology:** Python: Pandas, Numpy, Seaborn, Matplotlib.
 
-**Results:**
+**Results:** Demonstrated a range of insights and recommendations, supported by visualisations, namely:
+- Patients were generally seen within 14 days and attended appointments at a very high rate. The main area of failure was appointment time allocated to each patient, symptomatic of a lack of staff.
+- Face to face appointments were well attended if they occured soon after booking. To avoid waste, appointments with a high lag time should be reoirientated to telephone consultations.
+- Attendance rate is greater in ICBs with fewer resources, suggesting an awareness and respect among the public for NHS resources.
              
 ### Console Games Retailer Analysis
 
