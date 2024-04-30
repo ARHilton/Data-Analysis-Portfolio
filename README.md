@@ -24,6 +24,15 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Supermarket Customer Analysis
 
-**Presentation:** [pdf](https://github.com/ARHilton/Data-Analysis-Portfolio/blob/main/2Market%20Customer%20Analysis.pdf)
+**Presentation:** [pdf](https://github.com/ARHilton/Data-Analysis-Portfolio/blob/main/2Market%20Customer%20Analysis.pdf).
  
-**Description:** A project focussed on exploring the customer demographics of a supermarket retailer as well as explaining customer behaviour and their responsivity to different advertisments. The dataset contained several thousand rows of customer data, including customer id, information on age, marriage status, family size, income level, nationality, online/in store preference and the proclivity to respond to adverisements. An additional dataset included a record of advertisements served via different mediums (mail/X/Instagram/Facebook). The data was initially cleaned and explored using Excell and later fed into Tableau. Several dashboard were created to answer key business questions related to the problem statement.
+**Description:** A project focussed on exploring the customer demographics of a supermarket retailer as well as explaining customer behaviour and their responsivity to different advertisments. The dataset contained several thousand rows of customer data, including customer id, information on age, marriage status, family size, income level, nationality, online/in store preference and the proclivity to respond to adverisements. An additional dataset included a record of advertisements served via different mediums (mail/X/Instagram/Facebook). The data was initially cleaned and explored using Excel, further wrangled and explored using PostgreSQL and finally loaded into Tableau. Several dashboard were created to answer key business questions related to the problem statement.
+
+**Skills:** Data cleaning, dealing with outliers, exploratory analysis, structured thinking frameworks, formulating a problem statement, creating visualisations, presenting insights and recommendations.
+
+**Technology:** Excel, PostgreSQL, Tableau.
+
+**Results:** Presented a range of business recommendations, including:
+             - The Customer: I advised the supermarket to foster relationships with those in their thirties and to sell to those between 45 and 75. Couples and families were the most lucrative demographic.
+             - The product
+             
