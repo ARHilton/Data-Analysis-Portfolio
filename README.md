@@ -41,13 +41,13 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### NHS Capacity Analysis
 
-**Problem Statement:**
+**Business Problem:** The NHS has finite resources. In order to meet patient demand, the NHS must ascertain whether capacity must be expanded, or whether demand can be met by reallocating existing resources.
 
 **Code:**
 
 **Presentation:**
 
-**Description:**
+**Description:** The project sought to answer the question, "if NHS capacity was sufficient, what would it look like?", by drawing from NHS targets, namely: seeing patients within 14 days of booking, allocating 15 minutes per patient consultation and for attendance to be as high as possible. The dataset contained several hundred thousand rows of appointment data, including ICB (locality), consultation types and attendance. The data was cleaned and wrangled using the numpy Python library and visualisations created using Seaborn and Matplotlib.
 
 **Skills:**
 
