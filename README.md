@@ -66,11 +66,11 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Presentation:** [pdf](https://github.com/ARHilton/Data-Analysis-Portfolio/blob/main/TurtleGames_Predictive_Analysis.pdf).
 
-**Description:** 
+**Description:** A project focussed on exploring the customer behaviour of a console games retailer. The sales performance of the retailer was also examined. In both aspects of the project, the utility of predictive modelling was investigated. The datasets included customer data, containing information on age, gender, remunderation, spend score, education and loyalty points, as well as sales data, listing game sales by region between 1996 and 2015. The customer data eas wrangled, explored and modelled using Pythhon, while R was used to the same ends with the sales data.
 
-**Skills:**
+**Skills:** Regression modelling (Linear & Binary), K-means clustering (elbow and silhouette methods), NLP(tokenisation, wordclouds, sentiment analysis), Decision Trees, Confusion Matricies, Data Visualisation, Data Wrangling, Shapiro-Wilk testing, Skewness, Kurtosis.
 
-**Technology:**
+**Technology:** Python: Pandas, Numpy, Seaborn, Matplotlib, Statsmodels, Sklearn, Scipy, Nltk, TextBlob. R: Tidyverse, Skimr, Moments, Psych, Dplyr.
 
 **Results:** Presented a range of insights and recommendations, supported by visualisations, namely:
 - Customers could be classified as engagers (those that accumilate loyalty points), non-engagers (those that don't) and 'seeds' (those who have not yet become either).
