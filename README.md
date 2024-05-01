@@ -53,26 +53,31 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Python: Pandas, Numpy, Seaborn, Matplotlib.
 
-**Results:** Demonstrated a range of insights and recommendations, supported by visualisations, namely:
+**Results:** Presented a range of insights and recommendations, supported by visualisations, namely:
 - Patients were generally seen within 14 days and attended appointments at a very high rate. The main area of failure was appointment time allocated to each patient, symptomatic of a lack of staff.
 - Adjusting the modality of appointments, depending on lag time between booking and consultation, to increase chance of attendance. Telephone consultations are well attended regardless of lag time.
 - Attendance rate was greater in ICBs with fewer resources, suggesting an awareness and respect among the public for NHS resources.
              
 ### Console Games Retailer Analysis
 
-**Problem Statement:** use existing data to predict customer behaviour and promote engaement
+**Problem Statement:** How can the retailer use existing data to predict customer behaviour and promote engaement?
 
 **Code:**
 
 **Presentation:**
 
-**Description:**
+**Description:** 
 
 **Skills:**
 
 **Technology:**
 
-**Results:**
+**Results:** Presented a range of insights and recommendations, supported by visualisations, namely:
+- Customers could be classified as engagers (those that accumilate loyalty points), non-engagers (those that don't) and 'seeds' (those who have not yet become either).
+- How to tailor communications with different customers, according to their income level and spending habits, in order to foster engagement.  
+- The polarity of sentiment expressed in reviews, as well as the most frequently occurring words.
+- An overview of sales performance across various regions, especially focussing on the prevelance of outliers in unique title sales and the overall decline post 2010, indicative of a shifting market and supporting a recommendation to explore new technologies and markets outside of console games.
+- Demonstrated the power of predictive modelling, using North American and European sales, to predict overall sales.
 
 ### Bank of England Speech Sentiment Analysis
 
