@@ -43,7 +43,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Business Problem:** The NHS has finite resources. In order to meet patient demand, the NHS must ascertain whether capacity must be expanded, or whether demand can be met by reallocating existing resources.
 
-**Code:**
+**Code:** [NHS_Capacity_Analysis.ipynb](https://github.com/ARHilton/Data-Analysis-Portfolio/blob/main/NHS_Capacity_Analysis.ipynb)
 
 **Presentation:** [pdf](https://github.com/ARHilton/Data-Analysis-Portfolio/blob/main/NHS_Capacity_Analysis_Slides.pdf).
 
@@ -62,7 +62,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Problem Statement:** How can the retailer use existing data to predict customer behaviour and promote engaement?
 
-**Code:**
+**Code:** [Game_Retailer_Customer_Analysis.ipynb](https://github.com/ARHilton/Data-Analysis-Portfolio/blob/main/Game_Retailer_Customer_Analysis.ipynb),[Game_Retailer_Sales_Analysis.R](https://github.com/ARHilton/Data-Analysis-Portfolio/blob/main/Game_Retailer_Sales_Analysis.R)
 
 **Presentation:** [pdf](https://github.com/ARHilton/Data-Analysis-Portfolio/blob/main/TurtleGames_Predictive_Analysis.pdf).
 
@@ -83,7 +83,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Problem Statement:** Does speech sentiment effectively limit shock?
 
-**Code:**
+**Code:** [Speech_Sentiment_Analysis.ipynb](https://github.com/ARHilton/Data-Analysis-Portfolio/blob/main/Speech_Sentiment_Analysis.ipynb)
 
 **Presentation:** [Group presentation slide deck.](https://github.com/ARHilton/Data-Analysis-Portfolio/blob/main/Team10_LSE_EP_Assignment3_presentation_slides.pdf)
 
