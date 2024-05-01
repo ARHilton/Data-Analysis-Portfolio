@@ -64,7 +64,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Code:**
 
-**Presentation:**
+**Presentation:** 
 
 **Description:** 
 
@@ -85,7 +85,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Code:**
 
-**Presentation:**
+**Presentation:** [Group presentation slide deck.](https://github.com/ARHilton/Data-Analysis-Portfolio/blob/main/Team10_LSE_EP_Assignment3_presentation_slides.pdf)
 
 **Description:** I led a team of six people in a project exploring the sentiments expressed by the Bank of England (BoE) in their speeches. The aim of the project was to illuminate relationships between speech sentiments and key econominc indicators, and to validate whether the sentiments expressed are an effective form of 'soft influence' for the bank, specifically in limiting ecomonic shock. The basis of the sentiment analysis was a wordlist, provided by BoE, and itself based on [previous research](https://www.jstor.org/stable/43862267), similar in nature. The wordlist contianed 3880 words, each of which were classified as belonging to one or more of a possible seven sentiments, with several instances of overlap. Additionally, a dataset of speeches delivered by BoE was provided, which included information on the speaker, their governer status, a dictation of the entire speech and the data it was delivered. Speeches were analysed agaisnt the wordlist, deriving a score for each of the seven sentiments. These scores were then normalised for length to facilitate fair comparisson. Various aspect of the project were delegated, including the initial data cleaning and sentiment analysis. Beyond a leadership role, my contribution included analysing sentiment mean and standard deviation agaisnt bank rates, unity in the rate voting committee and historical events. I additionally examined the use of sentiment between the 'mini-budget' of 2022 and the 'spring budget' of 2023.
 
