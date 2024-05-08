@@ -89,9 +89,9 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** Working directly with Data Scientists at the Bank of England (BoE), I led a team of six people in a project exploring the sentiments expressed within speeches issued by the bank. The aim of the project was to illuminate relationships between speech sentiments and key econominc indicators, and to validate whether the sentiments expressed are an effective form of 'soft influence' for the bank, specifically in limiting ecomonic shock. The basis of the sentiment analysis was a wordlist, provided by BoE, and itself based on [previous research](https://www.jstor.org/stable/43862267), similar in nature. The wordlist contianed 3880 words, each of which were classified as belonging to one or more of a possible seven sentiments, with several instances of overlap. Additionally, a dataset of speeches delivered by BoE was provided, which included information on the speaker, their governer status, a dictation of the entire speech and the data it was delivered. Speeches were analysed agaisnt the wordlist, deriving a score for each of the seven sentiments. These scores were then normalised for length to facilitate fair comparisson. Various aspect of the project were delegated, including the initial data cleaning and sentiment analysis. Beyond a leadership role, my contribution included analysing sentiment mean and standard deviation agaisnt bank rates, unity in the rate voting committee and historical events. I additionally examined the use of sentiment between the 'mini-budget' of 2022 and the 'spring budget' of 2023.
 
-**Skills:** Team leadership & support, communication, data wrangling,  
+**Skills:** Team leadership & support, communication, data wrangling, consulting with clients, creating visualisations, storytelling, presenting insights and recommendations.
 
-**Technology:** Python
+**Technology:** Python: Pandas, Numpy, Seaborn, Matplotlib.
 
 **Results:** Across two group presentations, I delivered a range of insights and recommendations to BoE, namely:
 - 'Uncertain' sentiment reacted sharply to the 2008 financial crash.
