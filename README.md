@@ -8,7 +8,7 @@ Drawing from my diverse, worldly experience, I bring a problem focused, person o
 
 Recently graduated with distinction from the Data Analytics Career Accelerator program with the London School of Economics, (LSE), I've learned the language and mindset of a Data Analyst from leading experts in the field and am excitedly looking forward to extracting greater value from data than ever before.
 
-My CV in [pdf]([https://github.com/ARHilton/Data-Analysis-Portfolio/blob/main/Arthur%20Hilton_Data%20Analyst_CV.pdf](https://github.com/ARHilton/Data-Analysis-Portfolio/blob/main/Arthur_Hilton_CV.pdf]).
+My CV in [pdf]([https://github.com/ARHilton/Data-Analysis-Portfolio/blob/main/Arthur%20Hilton_Data%20Analyst_CV.pdf](https://github.com/ARHilton/Data-Analysis-Portfolio/blob/main/Arthur_Hilton_CV.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
