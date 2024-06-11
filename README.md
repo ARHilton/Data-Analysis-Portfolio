@@ -62,8 +62,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Problem Statement:** How can the retailer use existing data to predict customer behaviour and promote engagement?
 
-**Code:** [Game_Retailer_Customer_Analysis.ipynb](https://github.com/ARHilton/Data-Analysis-Portfolio/blob/main/Game_Retailer_Customer_Analysis.ipynb)
-          [Game_Retailer_Sales_Analysis.R](https://github.com/ARHilton/Data-Analysis-Portfolio/blob/main/Game_Retailer_Sales_Analysis.R)
+**Code:** [Game_Retailer_Customer_Analysis.ipynb](https://github.com/ARHilton/Data-Analysis-Portfolio/blob/main/Game_Retailer_Customer_Analysis.ipynb), [Game_Retailer_Sales_Analysis.R](https://github.com/ARHilton/Data-Analysis-Portfolio/blob/main/Game_Retailer_Sales_Analysis.R)
 
 **Presentation:** [pdf](https://github.com/ARHilton/Data-Analysis-Portfolio/blob/main/TurtleGames_Predictive_Analysis.pdf).
 
